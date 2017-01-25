@@ -106,10 +106,7 @@ public class MainActivity extends AppCompatActivity {
             b3.setEnabled(false);
             b4.setEnabled(false);
             b5.setEnabled(false);
-
-
-
-            //;;
+            
             b6.setEnabled(false);
             b7.setEnabled(false);
             b8.setEnabled(false);
